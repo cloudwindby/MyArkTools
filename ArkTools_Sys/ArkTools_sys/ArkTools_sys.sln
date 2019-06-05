@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArkTools_sys", "ArkTools_sys\ArkTools_sys.vcxproj", "{8DF51726-9336-42A2-BAF5-1111255C6386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		WinXP debug|Win32 = WinXP debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF51726-9336-42A2-BAF5-1111255C6386}.WinXP debug|Win32.ActiveCfg = WinXP debug|Win32
+		{8DF51726-9336-42A2-BAF5-1111255C6386}.WinXP debug|Win32.Build.0 = WinXP debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
